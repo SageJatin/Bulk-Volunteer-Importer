@@ -2,6 +2,15 @@
 
 A full-stack feature built for admins to upload, map, validate, and import bulk volunteer records via CSV/Excel. This project was engineered with a focus on memory efficiency, database query optimization, and a seamless user experience.
 
+<img width="1116" height="557" alt="step-1-upload" src="https://github.com/user-attachments/assets/16105851-2aff-4921-9f21-1894053f3094" />
+
+<img width="1122" height="785" alt="step-2-field-mapper" src="https://github.com/user-attachments/assets/2a6e8a87-aee5-4010-8b82-6852a5c6da71" />
+
+<img width="1112" height="857" alt="step-3-validation" src="https://github.com/user-attachments/assets/c3e54fe0-0799-425a-a92a-7b224d407c2c" />
+
+<img width="1127" height="842" alt="step-4-success" src="https://github.com/user-attachments/assets/19274b05-2ca9-4dea-b1c7-00804b6c0a91" />
+
+
 ## 🚀 Tech Stack
 * **Frontend:** React (Vite), Tailwind CSS, Axios
 * **Backend:** Node.js, Express.js
